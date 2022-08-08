@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # camera_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# PlacesTracker
+>>>>>>> 8de750e3aac7bd60a106e0bf05069522dd3ecb60
